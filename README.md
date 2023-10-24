@@ -1,6 +1,6 @@
 # Artificial Intelligence Algorithms Models and Limitations
 
-'Algorithms' 'Machine Learning`
+`Algorithms` `Machine Learning`
 
 ## Overview
 This repository contains the summarized learning materials of **Artificial Intelligence Algorithms Models and Limitations**.
