@@ -9,9 +9,9 @@ This repository contains the summarized learning materials of **Artificial Intel
 
 ## Modules
 1. [Getting Started: Algorithms](./week01)
-2. [AI and Model Outcomes]()
-3. [Rules for AI: Training and Constraints]()
-4. [Ethical AI: Cause and Effect]()
+2. [AI and Model Outcomes](./week02)
+3. [Rules for AI: Training and Constraints](./week03)
+4. [Ethical AI: Cause and Effect](./week04)
 
 ## Learning Contents
 - Understanding of algorithms
